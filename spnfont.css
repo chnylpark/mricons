@@ -1,0 +1,39 @@
+
+@font-face {
+    font-family: 'curs';
+    src: url('http://files.jcink.net/uploads/thecraft/fonts/curs.woff2') format('woff2'),
+         url('http://files.jcink.net/uploads/thecraft/fonts/curs.woff') format('woff'),
+         url('http://files.jcink.net/uploads/thecraft/fonts/curs.ttf') format('truetype'),
+         url('http://files.jcink.net/uploads/thecraft/fonts/curs.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'evilz';
+    src: url('http://files.jcink.net/uploads/thecraft/fonts/evilz.woff2') format('woff2'),
+         url('http://files.jcink.net/uploads/thecraft/fonts/evilz.woff') format('woff'),
+         url('http://files.jcink.net/uploads/thecraft/fonts/evilz.ttf') format('truetype'),
+         url('http://files.jcink.net/uploads/thecraft/fonts/evilz.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ill october';
+    src: url('http://files.jcink.net/uploads/thecraft/fonts/ill_octo.woff2') format('woff2'),
+         url('http://files.jcink.net/uploads/thecraft/fonts/ill_octo.woff') format('woff'),
+         url('http://files.jcink.net/uploads/thecraft/fonts/ill_octo.ttf') format('truetype'),
+         url('http://files.jcink.net/uploads/thecraft/fonts/ill_octo.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
